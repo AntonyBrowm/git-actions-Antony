@@ -1,5 +1,5 @@
+[![Build Status](https://app.travis-ci.com/AntonyBrowm/git-actions-Antony.svg?branch=main)](https://app.travis-ci.com/AntonyBrowm/git-actions-Antony)
 # Django-and-Django-REST-Framework
-
 ## Setup
 ### Installing docker compose
 
